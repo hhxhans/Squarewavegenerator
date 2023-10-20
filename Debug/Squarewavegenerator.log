@@ -1,0 +1,6 @@
+﻿  SimpleSimulation.cpp
+C:\Users\34912\Desktop\github\eigen\Eigen\src\Core\arch\Default\Half.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\34912\Desktop\github\eigen\Eigen\src\Core\arch\Default\BFloat16.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\34912\Desktop\github\eigen\Eigen\src\Core\arch\Default\GenericPacketMathFunctions.h(648,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\34912\Desktop\github\eigen\Eigen\src\Core\SkewSymmetricMatrix3.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  Squarewavegenerator.vcxproj -> C:\Users\34912\source\repos\Squarewavegenerator\Debug\Squarewavegenerator.exe
